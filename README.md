@@ -7,3 +7,5 @@ Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noS
 - JavaScript Básico - Para iniciantes
 - JavaScript - Lógica de programação
 - JavaScript Funções (Avançado)
+- JavaScript Arrays (Avançado)
+- JavaScript Objetos e prototypes (Avançado)
